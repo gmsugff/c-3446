@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\p32BX\p32BX\bin\Debug\net8.0\p32BX.exe
+C:\Users\User\source\repos\p32BX\p32BX\bin\Debug\net8.0\p32BX.deps.json
+C:\Users\User\source\repos\p32BX\p32BX\bin\Debug\net8.0\p32BX.runtimeconfig.json
+C:\Users\User\source\repos\p32BX\p32BX\bin\Debug\net8.0\p32BX.dll
+C:\Users\User\source\repos\p32BX\p32BX\bin\Debug\net8.0\p32BX.pdb
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\p32BX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\p32BX.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\p32BX.AssemblyInfo.cs
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\p32BX.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\p32BX.dll
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\refint\p32BX.dll
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\p32BX.pdb
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\p32BX.genruntimeconfig.cache
+C:\Users\User\source\repos\p32BX\p32BX\obj\Debug\net8.0\ref\p32BX.dll
